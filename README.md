@@ -14,19 +14,6 @@ I'm a **student** on a mission to turn curiosity into code, and ideas into impac
 
 ---
 
-## 🌟 Projects I’m Proud Of
-
-[Retail ETL Pipeline](https://github.com/NitinNSB/retail_etl_pipeline)  
-_Data engineering for retail analytics_
-
-[Movie Recommender](https://github.com/NitinNSB/movie_recommender)  
-_Machine learning meets movie fun_
-
-[Spam Detector](https://github.com/NitinNSB/Spam_Detector)  
-_AI-powered message filtering_
-
----
-
 ## 🧰 Skills & Tools
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
