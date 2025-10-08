@@ -8,7 +8,7 @@ I'm a **student** on a mission to turn curiosity into code, and ideas into impac
 ## 🚀 A Bit About Me
 
 - 🧠 **Learning:** Always exploring new tech, especially in **AI** & **entrepreneurship**
-- 🛠️ **Toolkit:** Python | SQL | PostgreSQL | Pandas | Numpy | Git
+- 🛠️ **Toolkit:** Python | SQL | PostgreSQL | Pandas | Numpy | Git | Excel | Slack
 - 📜 **Certified in SQL** (thanks, DataCamp!)
 - 🏊 When I'm not coding, you’ll find me swimming, drawing, or lost in a good book
 
@@ -22,6 +22,8 @@ I'm a **student** on a mission to turn curiosity into code, and ideas into impac
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
 
 ---
 
