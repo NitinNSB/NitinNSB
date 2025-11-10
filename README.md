@@ -1,5 +1,4 @@
-# 👋 Hey there! I'm Nitin Singh Bisht
-
+![My Image](banner.png)
 Welcome to my little corner of GitHub!  
 I'm a **student** on a mission to turn curiosity into code, and ideas into impact.
 
